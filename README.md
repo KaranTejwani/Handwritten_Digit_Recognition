@@ -29,15 +29,15 @@ This project demonstrates the implementation of a neural network to recognize ha
    ```bash
    git clone https://github.com/KaranTejwani/Handwritten_Digit_Recognition.git
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
    ```bash
    cd Handwritten_Digit_Recognition
 
-3. pip install tensorflow numpy matplotlib
+3. **pip install tensorflow numpy matplotlib:**
    ```bash
    pip install tensorflow numpy matplotlib
 
-4. Run the Jupyter Notebook:
+4. **Run the Jupyter Notebook:**
    ```bash
    jupyter notebook Handwritten_Digit_Recognition.ipynb
 
